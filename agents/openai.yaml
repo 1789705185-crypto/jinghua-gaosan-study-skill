@@ -1,0 +1,4 @@
+interface:
+  display_name: "精华高三学习教练"
+  short_description: "用全日制闭环诊断学情、分层补弱、规划执行并复盘高三学习"
+  default_prompt: "使用 $jinghua-gaosan-study 根据我的成绩、目标和可用时间制定本周高三学习计划。"
