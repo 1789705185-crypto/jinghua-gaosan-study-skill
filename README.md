@@ -19,11 +19,10 @@
 
 ### 用 Skill Installer 安装
 
-复制当前 GitHub 仓库地址，然后在 Codex 中输入：
+在 Codex 中输入：
 
 ```text
-使用 $skill-installer，从这个 GitHub 仓库安装 jinghua-gaosan-study：
-【粘贴仓库地址】
+使用 $skill-installer，从 https://github.com/1789705185-crypto/jinghua-gaosan-study-skill 安装 jinghua-gaosan-study。
 ```
 
 ### 手动安装
